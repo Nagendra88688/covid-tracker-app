@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Nagendra88688/covid-tracker-app/static/css/main.86daa420.chunk.css",
+    "main.js": "/Nagendra88688/covid-tracker-app/static/js/main.f4f655ec.chunk.js",
+    "main.js.map": "/Nagendra88688/covid-tracker-app/static/js/main.f4f655ec.chunk.js.map",
+    "runtime-main.js": "/Nagendra88688/covid-tracker-app/static/js/runtime-main.368270b6.js",
+    "runtime-main.js.map": "/Nagendra88688/covid-tracker-app/static/js/runtime-main.368270b6.js.map",
+    "static/js/2.3358db01.chunk.js": "/Nagendra88688/covid-tracker-app/static/js/2.3358db01.chunk.js",
+    "static/js/2.3358db01.chunk.js.map": "/Nagendra88688/covid-tracker-app/static/js/2.3358db01.chunk.js.map",
+    "index.html": "/Nagendra88688/covid-tracker-app/index.html",
+    "static/css/main.86daa420.chunk.css.map": "/Nagendra88688/covid-tracker-app/static/css/main.86daa420.chunk.css.map",
+    "static/js/2.3358db01.chunk.js.LICENSE.txt": "/Nagendra88688/covid-tracker-app/static/js/2.3358db01.chunk.js.LICENSE.txt",
+    "static/media/image.9e5d4fc7.png": "/Nagendra88688/covid-tracker-app/static/media/image.9e5d4fc7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.368270b6.js",
+    "static/js/2.3358db01.chunk.js",
+    "static/css/main.86daa420.chunk.css",
+    "static/js/main.f4f655ec.chunk.js"
+  ]
+}
